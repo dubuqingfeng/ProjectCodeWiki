@@ -1,6 +1,5 @@
 ##项目协作与编码规范
-此文档依靠gitbook发布，前往这里阅读在线版本的[项目协作与编码规范](https://www.gitbook.com/book/dubuqingfeng/projectcodewiki/details)，有什么问题或建议，可以 提交[Github Issue](https://github.com/dubuqingfeng/ProjectCodeWiki)
-
+此文档依靠gitbook发布，前往这里阅读在线版本的[项目协作与编码规范](https://www.gitbook.com/book/dubuqingfeng/projectcodewiki/details)，有什么问题或建议，可以提交[Github Issue](https://github.com/dubuqingfeng/ProjectCodeWiki/issues/new)。
 ###前言
 
 这个是关于项目协作上的一些统一性的规定以及步骤或者方法，还有一些编码规范，一些软件指南，软件快捷键等。
@@ -46,8 +45,6 @@
     * [XCode]()
     * [Photoshop]()
 * [软件权威指南]()
-* [一些翻译文档]()
-	* [Java]()
-	* [Android]()
-	* [C++]()
-	* [PHP]()
+* [一些开发环境]()
+	* [Mac]()
+	* [Ubuntu]()
