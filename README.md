@@ -1,5 +1,5 @@
 ##项目协作与编码规范
-此文档依靠gitbook发布，地址随后编辑。
+此文档依靠gitbook发布，前往这里阅读在线版本的[项目协作与编码规范](https://www.gitbook.com/book/dubuqingfeng/projectcodewiki/details)，有什么问题或建议，可以 提交[Github Issue](https://github.com/dubuqingfeng/ProjectCodeWiki)
 
 ###前言
 
@@ -41,7 +41,7 @@
     * [Bower]()
 * [软件快捷键](chapter5/README.md)
     * [Eclipse](chapter5/section5.1.md)
-    * [Sublime]()
+    * [Sublime](chapter5/section5.2.md)
     * [Android-studio]()
     * [XCode]()
     * [Photoshop]()
