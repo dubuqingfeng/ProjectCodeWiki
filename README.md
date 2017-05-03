@@ -1,10 +1,10 @@
-##项目协作与编码规范
+## 项目协作与编码规范
 此文档依靠gitbook发布，前往这里阅读在线版本的[项目协作与编码规范](https://www.gitbook.com/book/dubuqingfeng/projectcodewiki/details)，有什么问题或建议，可以提交[Github Issue](https://github.com/dubuqingfeng/ProjectCodeWiki/issues/new)。
-###前言
+### 前言
 
 这个是关于项目协作上的一些统一性的规定以及步骤或者方法，还有一些编码规范，一些软件指南，软件快捷键等。
 
-###目录
+### 目录
 
 * [协作](chapter1/README.md)
     * [学习Git](chapter1/section1.1.md)
