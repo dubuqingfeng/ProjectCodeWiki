@@ -1,5 +1,7 @@
 ## 软件权威指南
+
 这里收集一些软件或者技术的权威指南。
+
 ## 列表
 + [Elasticsearch](https://www.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
 + [Squid](http://home.arcor.de/pangj/squid/)
